@@ -1,0 +1,15 @@
+{
+  "name": "error-stack-mapper",
+  "description": "map error stack to its original file using source-map",
+  "version": "1.0.0",
+  "private": true,
+  "main": "lib/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node　index.js"
+  },
+  "dependencies": {
+    "download": "^7.1.0",
+    "stack-mapper": "^0.2.2"
+  }
+}
