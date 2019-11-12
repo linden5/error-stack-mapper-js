@@ -6,7 +6,7 @@
   "main": "lib/index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node　index.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "download": "^7.1.0",
